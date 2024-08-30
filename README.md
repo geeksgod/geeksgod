@@ -1,8 +1,8 @@
 # 💫 About Me:
-<h3 align="center"><p align-left>
+<p>
 Skilled Software QA Engineer with 4+ years of hands-on experience in software testing and quality assurance. Proficient in structured and exploratory testing techniques, with a strong understanding of QA methodologies, tools, and processes. Capable of visualizing goals, prioritizing them based on general importance, and conquering them with the team. Driven individual with the ability to adapt to any situation and proven potential to grow self and others.
+</p>
 
-</p></h3>
 
 </br>
 
@@ -36,6 +36,6 @@ Skilled Software QA Engineer with 4+ years of hands-on experience in software te
 <p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=geeksgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=geeksgod&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=geeksgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true) </br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=geeksgod&theme=dark&hide_border=false) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geeksgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
