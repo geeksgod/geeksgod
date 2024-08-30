@@ -23,7 +23,7 @@ Skilled Software QA Engineer with 4+ years of hands-on experience in software te
 ## :bullettrain_front: Automation Framework (POM)
 
 <p><img src="https://skillicons.dev/icons?i=selenium" alt="drawing" width="50"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA7VBMVEX////u+vXh9ezG59mAz61Cw5A7xY5FzZZZ0qCQ373U8+bJ5dlPto42tIQ9uoqo4si56dOy6dJe06R42bCHw6sup3u44M/8/v3E7dtttJgtn3ee48aGu6Yql3GZybaC3LfH3NQkj2zd9etElHgfgmS1z8by8vPb2938/Px0pJTd5eNGSFIAAAB+f4VdX2e5ur2qq64kemEAAAwAABcRb1efu7J5eoByc3ozNUGNjpOwxL0mKTcAByAKZE9UVV4WXU/ExcdqjYQaHi6bnKAASkAuXFRfZGsAOjVzh4WOmppZbm0AKChwfn8AGiAVMjgYUI44AAABRElEQVR4AY3SA3ZDURRA0RPbtt//TW7txnbmP5yuGOVefrzi3wxGo4FvmcwWq81mszucXHK5PV6zz+8POILB0MV2OOKOxtiIxUMhHycSyTAnfKEUB+lMljP+XICdfCHNhUCuyFapxCUcqd3FcgVAaTpHzlSRtatyDKo1EbnmRjTgVu5I+Vm7vwL1INd3N3KjyTVQewS/D0A9PcOL3AKvN/rbg44m7+D0xYDq0wfUG2zdyR3voqAYMKw3m6ebutR4aAHGzaZqnzyreHl4lw5Q9McA2t1DQC3QpNEDcMZZ67aPqWxC7QPEnax9DD4AVFVn7VUUYHAa2BgOOVIyAig62eqMJxz0RQMMRQM7k/GUvUYdMJzO0my+YKsjdxAzGDixWK7udICW6MQMMc50Vo+Po/5dX14gFuPS7ehRRHqKHyhN498+AXy9KF7k1Iv+AAAAAElFTkSuQmCC" alt="drawing" width="50"/>
+<img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2048-swmlmjca.png" alt="drawing" width="50"/>
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="drawing" width="50"/>
 <p>
 
