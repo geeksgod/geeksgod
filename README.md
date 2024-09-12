@@ -1,7 +1,15 @@
 # 💫 About Me:
-<p>
-Skilled Software QA Engineer with 4+ years of hands-on experience in software testing and quality assurance. Proficient in structured and exploratory testing techniques, with a strong understanding of QA methodologies, tools, and processes. Capable of visualizing goals, prioritizing them based on general importance, and conquering them with the team. Driven individual with the ability to adapt to any situation and proven potential to grow self and others.
-</p>
+<table>
+  <tr>
+    <td>
+      <p>Skilled Software QA Engineer with 4+ years of hands-on experience in software testing and quality assurance. Proficient in structured and exploratory testing techniques, with a strong understanding of QA methodologies, tools, and processes. Capable of visualizing goals, prioritizing them based on general importance, and conquering them with the team. Driven individual with the ability to adapt to any situation and proven potential to grow self and others.</p>
+    </td>
+     <td>
+      <img src="https://i.imgur.com/1gdOXuD.gif" alt="drawing" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 
 </br>
