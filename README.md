@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **bipinmaharjan750@gmail.com**
 
-- ⚡ Fun fact **Being tall is one of my presonalit**
+- ⚡ Fun fact **The first recorded computer bug was found on September 9, 1947, when a moth was discovered in the Harvard Mark II computer**
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/mabipin">
