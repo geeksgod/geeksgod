@@ -1,7 +1,7 @@
 <table>
   <tr>
      <td>
-      <img src="https://static.wixstatic.com/media/54c3a8_20a3ad451dd940e3a8388b2fd47c6b57~mv2.gif" alt="drawing" width="100%"/>
+      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KKCcfAQtg8pSlkZ6NYoogw.gif" width="100%"/>
     </td>
   </tr>
 </table>
