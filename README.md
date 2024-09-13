@@ -29,7 +29,9 @@
 - ⚡ Fun fact **Being tall is one of my presonalit**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mabipin) 
+<a href="https://linkedin.com/in/mabipin">
+  <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="drawing" width="50"/>
+</a>
 
 ## :computer: Languages:
 ![Languages](https://skillicons.dev/icons?i=py,js,java,cs) 
