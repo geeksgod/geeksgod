@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-I am a Software Quality Assurance Engineer & Developer with a recent Master's degree and 4+ years of hands-on industry experience across the software development lifecycle (SDLC). Passionate about building robust applications, designing scalable automated test frameworks, and driving software reliability. Proven ability to bridge the gap between development and testing, with strong skills in test automation, full-stack technologies, and modern DevOps tools.
+I am a recent Master's degree and 4+ years of hands-on industry experience across the software development lifecycle (SDLC). Passionate about building robust applications, designing scalable automated test frameworks, and driving software reliability. Proven ability to bridge the gap between development and testing, with strong skills in test automation, full-stack technologies, and modern DevOps tools.
 
 ---
 
